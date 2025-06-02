@@ -1,2 +1,15 @@
 Project Summary: Coca-Cola Sales Analysis using Power BI
 This project focuses on developing an interactive and visually engaging Power BI dashboard to analyze Coca-Cola's sales data. It aims to provide valuable insights into sales performance, profitability, and key metrics for better decision-making.
+Key Metrics
+Total Sales: 115.9
+Total Profit: 9.8M
+Total Units Sold: 24.8M
+Benefits of the Dashboard
+Strategic Insights: Identify top-performing brands, cities, and states for targeted marketing and expansion strategies.
+Enhanced Logistics: Analyze delivery company performance to optimize supply chain efficiency.
+Dynamic Reporting: Interactive slicers allow stakeholders to customize the data view for tailored insights.
+Tools and Techniques
+Data Transformation: Leverage Power Query to clean and preprocess raw sales data.
+Data Modeling: Establish relationships between datasets to enable seamless filtering and aggregation.
+Visualizations: Utilize Power BI's advanced visualization capabilities to create an intuitive and informative dashboard.
+This project delivers actionable insights into Coca-Cola's sales performance, enabling data-driven decision-making and enhanced operational efficiency.
